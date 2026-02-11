@@ -1,5 +1,6 @@
 ﻿# DumpCsExplorer
 
+
 A DnSpy-style explorer for IL2CPP Dumper `dump.cs` files. No DummyDLLs? No Problem.
 
 - Browse dump.cs files more efficiently
@@ -9,6 +10,7 @@ A DnSpy-style explorer for IL2CPP Dumper `dump.cs` files. No DummyDLLs? No Probl
 - Favorites
 - More info below
 
+ ANDROID VERSION HERE: https://github.com/hiyall360/DumpCsExplorer-Mobile
 
 ## Screenshots
 
